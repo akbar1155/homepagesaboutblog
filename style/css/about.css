@@ -70,6 +70,7 @@ p {
 .pone {
   width: 89px;
   height: 32px;
+  margin-left: 301px;
   /* Paragraphs/Text S */
   font-family: "Open Sans";
   font-style: normal;
@@ -90,6 +91,7 @@ p {
 .htwoo {
   width: 842px;
   height: 144px;
+  margin-left: 301px;
   font-family: "Manrope";
   font-style: normal;
   font-weight: 400;
@@ -114,13 +116,12 @@ p {
   width: 799px;
   height: 168px;
   /* Paragraphs/Text S */
+  margin-left: 301px;
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
-  /* or 160% */
-  /* Gray */
   color: #777777;
 }
 
@@ -128,24 +129,122 @@ p {
   background-color: #0a2640;
 }
 
-.card6 {
-  width: 126px;
-  height: 32px;
-  /* Paragraphs/Text S */
-  font-family: "Open Sans";
+.card7 {
+  width: 1250px;
+  margin: 0 auto;
+}
+
+.card8 {
+  width: 233px;
+  height: 56px;
+  font-family: "Manrope";
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
-  line-height: 32px;
-  /* identical to box height, or 160% */
+  font-size: 96px;
+  line-height: 56px;
+  /* identical to box height, or 58% */
   display: flex;
   align-items: center;
+  color: #4fe9a4;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 
-.card7 {
-  width: 1250px;
-  margin: 0 auto;
+.card9 {
+  width: 126px;
+  height: 32px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  display: flex;
+  margin-left: 637px;
+  margin-top: 80px;
+  color: #f1f1f1;
+  flex: none;
+  padding-top: 94px;
+  order: 0;
+  flex-grow: 0;
+}
+
+.card10 {
+  width: 842px;
+  height: 144px;
+  margin-left: 279px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  /* or 150% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.card11 {
+  width: 297px;
+  height: 56px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 56px;
+  /* identical to box height, or 58% */
+  display: flex;
+  align-items: center;
+  color: #4fe9a4;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.card12 {
+  width: 169px;
+  height: 56px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 56px;
+  /* identical to box height, or 58% */
+  display: flex;
+  align-items: center;
+  color: #4fe9a4;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.card13 {
+  display: flex;
+  gap: 25%;
+}
+
+.card14 {
+  width: 187px;
+  height: 36px;
+  /* Paragraphs/Text M */
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+  /* Light Grey */
+  color: #f1f1f1;
+  margin-top: 20px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
 }/*# sourceMappingURL=about.css.map */
